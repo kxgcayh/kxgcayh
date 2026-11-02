@@ -23,7 +23,6 @@ I used to run Arch with i3wm. The dotfiles are still here.
 | [Mole-GUI](https://github.com/kxgcayh/Mole-GUI) | Native macOS GUI for the Mole CLI: system cleaner with live telemetry |
 | [cross-msvc](https://github.com/kxgcayh/cross-msvc) | Toolchain and CMake starters for building native Windows x64 (MSVC) binaries on macOS |
 | [byteplus_asr_streaming](https://github.com/kxgcayh/byteplus_asr_streaming) | Dart WebSocket client for BytePlus streaming speech recognition |
-| [beasthhbb-ibeasts-jkj-patch](https://github.com/kxgcayh/beasthhbb-ibeasts-jkj-patch) | Fixes headless and dark-faced Khajiit when Project ja-Kha'jay is installed |
 
 ### GitHub stats
 
