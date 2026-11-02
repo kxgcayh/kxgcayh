@@ -28,6 +28,8 @@ I used to run Arch with i3wm. The dotfiles are still here.
 ### GitHub stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kxgcayh&hide=contribs,prs&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats for kxgcayh" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kxgcayh&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kxgcayh&theme=tokyonight" alt="GitHub stats for kxgcayh" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kxgcayh&theme=tokyonight" alt="Repos per language" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=kxgcayh&theme=tokyonight&hide_border=true" alt="Contribution streak" />
 </p>
